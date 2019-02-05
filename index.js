@@ -2,5 +2,7 @@
 printBadges(['Ada', 'Brendan', 'Ali']);
 
 function printBadges(badges) {
-  for (let i = 0; i < )
+  for (let i = 0; i < badges.length; i++) {
+    
+  }
 };
