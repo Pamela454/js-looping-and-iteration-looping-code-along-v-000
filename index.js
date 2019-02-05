@@ -2,4 +2,5 @@
 printBadges(['Ada', 'Brendan', 'Ali']);
 
 function printBadges(gifts) {
+  
 };
