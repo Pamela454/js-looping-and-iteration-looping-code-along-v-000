@@ -9,3 +9,4 @@ function printBadges(badges) {
   
   return badges; 
 }
+
