@@ -10,4 +10,6 @@ function printBadges(badges) {
   return badges; 
 }
 
-function tailsNeverFails()
+function tailsNeverFails() {
+  
+}
