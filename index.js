@@ -3,6 +3,6 @@ printBadges(['Ada', 'Brendan', 'Ali']);
 
 function printBadges(badges) {
   for (let i = 0; i < badges.length; i++) {
-  console.log('')  
+  console.log('Welcome ${badges[i]}! You are employee #1.')  
   }
 }
