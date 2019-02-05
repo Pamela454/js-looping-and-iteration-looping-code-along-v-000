@@ -13,3 +13,4 @@ function printBadges(badges) {
 function tailsNeverFails() {
   return Math.random() >= 0.5;
 }
+
